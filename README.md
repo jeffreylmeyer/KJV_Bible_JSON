@@ -1,13 +1,15 @@
 # KJV_Bible_JSON
+This is a sample of my coding ability. It is intended for demonstrating my abilities and coding style.
 
 To use these JSON files copy the BibleFiles\*\*\*.* to a local drive directory such as 
 C:\BibleFiles or place into your Documents folder.
+
 Example:
-C:\BibleFiles
-C:\BibleFiles\\JSONBible
-C:\BibleFiles\\JSONBible\\books.json
-C:\BibleFiles\\JSONBible\\NewTestament\\{bookname}.json
-C:\BibleFiles\\JSONBible\\OldTestament\\{bookname}.json
+    C:\BibleFiles
+    C:\BibleFiles\\JSONBible
+    C:\BibleFiles\\JSONBible\\books.json
+    C:\BibleFiles\\JSONBible\\NewTestament\\{bookname}.json
+    C:\BibleFiles\\JSONBible\\OldTestament\\{bookname}.json
 
 
 You will need to know that path if you run the Bible Search 1 software to read the .json Bible.
