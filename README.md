@@ -20,9 +20,10 @@ You will need to know that path if you run the Bible Search 1 software to read t
  When first run it will ask for the \BibleFiles\JSONBible folder path. Make sure you select the
  JSONBible folder and not the parent dir (BibleFiles). The path will be stored in user settings
  i.e. Properties.Settings.Default.JSONBiblePath. You can preset that path in the settings before 
- compiling, if desired.
+ compiling, if desired. You can also change from the Settings->Configuration menu.
  
  The software references Newtonsoft.Json which is used for Serializing and Deserializing the json.
+ REQUIRES MICROSOFT .NET FRAMEWORKS 4.5.2
  
  This program will search the entire Bible in a split-second (single words or short phrases).
  
