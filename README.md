@@ -12,7 +12,7 @@ C:\BibleFiles\JSONBible\OldTestament\{bookname}.json
 
 You will need to know that path if you run the Bible Search 1 software to read the .json Bible.
 
- Bible Search 1 software is a c# program writtin with Visual Studio 2015 PRO, but should compile
+ Bible Search 1 software is a c# program written with Visual Studio 2015 PRO, but should compile
  using VS Community 2015-2017, also.
  
  When first run it will ask for the \BibleFiles\JSONBible folder path. Make sure you select the
