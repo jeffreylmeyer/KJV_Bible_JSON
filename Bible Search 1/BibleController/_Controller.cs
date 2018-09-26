@@ -38,7 +38,7 @@ namespace BibleController
                 // can be accessed in main class by referencing instance of class
                 // Example:
                 // _Controller controller = new _Controller(_JSONBiblePath);
-                // BibleBooks books = controller.GetBookList();
+                // List<BibleBooks> books = controller.GetBookList();
 
                 string text = System.IO.File.ReadAllText(bookList);
                 books = JsonConvert.DeserializeObject<List<BibleBooks>>(text);
