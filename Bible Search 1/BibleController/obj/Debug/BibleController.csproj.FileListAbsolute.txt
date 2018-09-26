@@ -1,0 +1,8 @@
+D:\CS_DEV2018\Bible Search 1\BibleController\bin\Debug\BibleController.dll
+D:\CS_DEV2018\Bible Search 1\BibleController\bin\Debug\BibleController.pdb
+D:\CS_DEV2018\Bible Search 1\BibleController\bin\Debug\Newtonsoft.Json.dll
+D:\CS_DEV2018\Bible Search 1\BibleController\bin\Debug\Newtonsoft.Json.xml
+D:\CS_DEV2018\Bible Search 1\BibleController\obj\Debug\Interop.Shell32.dll
+D:\CS_DEV2018\Bible Search 1\BibleController\obj\Debug\BibleController.csproj.ResolveComReference.cache
+D:\CS_DEV2018\Bible Search 1\BibleController\obj\Debug\BibleController.dll
+D:\CS_DEV2018\Bible Search 1\BibleController\obj\Debug\BibleController.pdb

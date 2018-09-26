@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Bible_Search_1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Verdana, 11.25pt</Value>
+    </Setting>
+    <Setting Name="JSONBiblePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\BibleFiles\JSONBible\</Value>
+    </Setting>
+    <Setting Name="firstRun" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

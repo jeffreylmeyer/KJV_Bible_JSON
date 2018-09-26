@@ -1,0 +1,21 @@
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.csprojResolveAssemblyReference.cache
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible_Search_1.About.resources
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible_Search_1.ConfigDLG.resources
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible_Search_1.MainWin.resources
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible_Search_1.Properties.Resources.resources
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible_Search_1.StatusWin.resources
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.csproj.GenerateResource.Cache
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Bible Search 1.exe.config
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Bible Search 1.exe.manifest
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Bible Search 1.application
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Bible Search 1.exe
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Bible Search 1.pdb
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\BibleController.dll
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Newtonsoft.Json.dll
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\BibleController.pdb
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\bin\Release\Newtonsoft.Json.xml
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.TrustInfo.xml
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.exe.manifest
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.application
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.exe
+D:\CS_DEV2018\Bible Search 1\Bible Search 1\obj\Release\Bible Search 1.pdb
