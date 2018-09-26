@@ -1,0 +1,40 @@
+Bible Search 1
+
+Copy the entire Bible Search 1 folder to your development folder. You should be able to load the
+Bible Search 1.sln into Visual Studio. The BibleController is a class lib compiled to a .dll file.
+
+A reference to the BibleController is required to access the methods and data objects.
+
+Data objects (in BibleController):
+
+BibleBooks:
+
+namespace BibleController
+{
+    public class BibleBooks
+    {
+        public book bibleBook { get; set; }
+        public class book
+        {
+            public int BookID { get; set; }
+            public string DisplayTitle { get; set; }
+            public string BookName { get; set; }
+            public string BookFilePath { get; set; }
+        }
+    }
+}
+
+
+BookText:
+
+namespace BibleController
+{
+
+   public class BookText
+    {
+        public int chapter { get; set; }
+        public int verse { get; set; }
+        public string text { get; set; }
+
+    }
+}
