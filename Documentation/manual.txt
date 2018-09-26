@@ -4,9 +4,11 @@ Copy the entire Bible Search 1 folder to your development folder. You should be 
 Bible Search 1.sln into Visual Studio. The BibleController is a class lib compiled to a .dll file.
 
 A reference to the BibleController is required to access the methods and data objects.
+See the _Controller class for details on how to deserialize the json for each class.
 
 Data objects (in BibleController):
 
+___________________________________________
 BibleBooks:
 
 namespace BibleController
@@ -24,7 +26,39 @@ namespace BibleController
     }
 }
 
+The BibleBooks class matches the JSON structure for the BibleFiles\JSONBible\books.json file
 
+Format:
+[
+{
+    "bibleBook":{
+        "BookID":1,
+        "BookName":"GENESIS",
+        "DisplayTitle":"Genesis",
+        "BookFilePath":"OldTestament\\GENESIS.json"
+    }
+},
+{
+    "bibleBook":{
+        "BookID":2,
+        "BookName":"EXODUS",
+        "DisplayTitle":"Exodus",
+        "BookFilePath":"OldTestament\\EXODUS.json"
+    }
+},
+{
+    "bibleBook":{
+        "BookID":3,
+        "BookName":"LEVITICUS",
+        "DisplayTitle":"Leviticus",
+        "BookFilePath":"OldTestament\\LEVIT.json"
+    }
+}
+]
+
+etc.
+
+______________________________________
 BookText:
 
 namespace BibleController
@@ -38,3 +72,25 @@ namespace BibleController
 
     }
 }
+
+The BookText class matches the JSON structure for the BibleFiles\JSONBible\NewTestament\bookname.json files.
+Format:
+
+[
+{
+    "chapter":1,
+    "verse":1,
+    "text":"The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+},
+{
+    "chapter":1,
+    "verse":2,
+    "text":"Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;"
+},
+{
+    "chapter":1,
+    "verse":3,
+    "text":"And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;"
+}
+]
+etc.
